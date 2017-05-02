@@ -1,20 +1,19 @@
-## Welcome to GitHub Pages
+## 137A
 
 You can use the [editor on GitHub](https://github.com/17-1-SKKU-OSS/137A/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 137A
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
+##오픈소스소프트웨어,2017-1
+#팀명 : 137A
+#팀원 구성 : 2014315418 은수연/ 2014315411 양혜리/ 2014315321 강평
+#팀 소개 : 잘 부탁 드립니다.
 - Bulleted
 - List
 
