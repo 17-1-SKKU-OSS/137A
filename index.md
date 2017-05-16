@@ -1,3 +1,4 @@
+
 137A
 
 오픈소스소프트웨어,2017-1
@@ -10,3 +11,5 @@
 
 
 팀 소개 : 잘 부탁 드립니다.
+
+git url : https://github.com/17-1-SKKU-OSS/xe-core.git
