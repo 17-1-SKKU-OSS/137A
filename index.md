@@ -23,6 +23,8 @@ git url : https://github.com/17-1-SKKU-OSS/xe-core.git
 ### xe-core에서 고쳐야 할 내용들에 대해서 찾아봄
 -요구하는 것들에 대한 메뉴얼이 있어서 보고 수정을 함.
 
+project object 대해 추가했다
+
 (은수연)
 1. 띄어쓰기에 대한 부분을 수정함
 2. 오타에 대한 부분을 수정함
@@ -47,6 +49,7 @@ git url : https://github.com/17-1-SKKU-OSS/xe-core.git
 (은수연)
 1. 버전 정보가 잘못되어 있어서 고침.
 2. 전에 고쳤던 것과 같은 if문 등 뒤의 {}의 엔터 처리함.
+3. 조금 틀린 부분이 많은 곳의 코드 정리를 해서 pull-request를 하였다.
 
 (양혜리)
 1. 전에 고쳤던 것과 같은 if문 등 뒤의 {}의 엔터 처리함.
