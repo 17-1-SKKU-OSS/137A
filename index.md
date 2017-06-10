@@ -23,7 +23,7 @@ git url : https://github.com/17-1-SKKU-OSS/xe-core.git
 ### xe-core에서 고쳐야 할 내용들에 대해서 찾아봄
 -요구하는 것들에 대한 메뉴얼이 있어서 보고 수정을 함.
 
-project object 대해 추가했다
+project object 대해 추가했다   
 
 (은수연)
 1. 띄어쓰기에 대한 부분을 수정함
