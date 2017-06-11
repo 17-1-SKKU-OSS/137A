@@ -6,7 +6,8 @@
     </head>    
     <body>        
         HelloWorld.        
-        <br>        
+        <br>  //<br>출력 (브라우저상에서는 줄바꿈)      
         HI.    
     </body>
 </html>
+
