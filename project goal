@@ -1,6 +1,8 @@
--제목 : Xpress Engine-선정 커뮤니티 활동 방법 
+-제목 : XpressEngine
 
-1. git에서 저희가 선택한 Xpress Engine의 페이지를 fork하였습니다.
+-선정 커뮤니티 활동 방법 
+
+1. git에서 저희가 선택한 XpressEngine의 페이지를 fork하였습니다.
 
 2. Xpress Engine을 직접 다운받아서 체험해보고 불편한 사항 및 수정 사항에 대해서 생각해본다.
 
@@ -14,11 +16,11 @@
 
 -팀원 별 역할 및 활동
 
-은수연 : 팀 홈페이지 수정 및 활동 내용 정리, xpress engine 다운 후 체험, 코드 수정
+은수연 : Fork, Pull-Request, 팀 홈페이지 수정 및 활동 내용 정리, 코드 수정
 
-양혜리 : fork, 팀 활동 방향 탐색 및 xpress engine 다운 후 체험, 코드 수정
+양혜리 : 팀 활동 방향 탐색 및 xpressengine 다운 후 체험, 코드 수정
 
-강평 : xpress engine 다운 후 체험 및 issue 업데이트 내용 확인, 수정
+강평 : xpressengine 다운 후 체험 및 issue 업데이트 내용 확인, 수정
 
 -활동 시 이슈 내용 및 고려사항 그리고 제안사항
 
